@@ -11,5 +11,5 @@ accurate value of `pi`, and we want to achieve the same for
 `big(0.1)`.
 
 [![Build Status (Travis)](https://travis-ci.org/eschnett/Literals.jl.svg?branch=master)](https://travis-ci.org/eschnett/Literals.jl)
-[![Build status (Appveyor)](https://ci.appveyor.com/api/projects/status/aancab20uolykwwu/branch/master?svg=true)](https://ci.appveyor.com/project/eschnett/fixedpoint-jl/branch/master)
+[![Build status (Appveyor)](https://ci.appveyor.com/api/projects/status/ujy8ne7hpk5yv6uc/branch/master?svg=true)](https://ci.appveyor.com/project/eschnett/literals-jl/branch/master)
 [![Coverage Status (Coveralls)](https://coveralls.io/repos/github/eschnett/Literals.jl/badge.svg?branch=master)](https://coveralls.io/github/eschnett/Literals.jl?branch=master)
